@@ -1,6 +1,6 @@
 - ^_^ Hi, I'm **Andrei Lebedev** (@lebedevtech)
-- I'm Web-Developer from Russia based in Germany NRW 
-- I work for @partworks, and we sell spare parts for classic Porsche's 🚗
+- I'm Web-Developer from Russia based in Paderborn, Germany
+- I work for @partworks-gmbh, and we sell spare parts for classic Porsche's 🚗
   
 - ༼ つ ◕_◕ ༽つ My hobbies are:
   - 🎵 write music
